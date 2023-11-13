@@ -1,0 +1,15 @@
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\bin\Debug\net7.0\Estudos_emC#.exe
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\bin\Debug\net7.0\Estudos_emC#.deps.json
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\bin\Debug\net7.0\Estudos_emC#.runtimeconfig.json
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\bin\Debug\net7.0\Estudos_emC#.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\bin\Debug\net7.0\Estudos_emC#.pdb
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.csproj.AssemblyReference.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.AssemblyInfoInputs.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.AssemblyInfo.cs
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.csproj.CoreCompileInputs.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\refint\Estudos_emC#.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.pdb
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\Estudos_emC#.genruntimeconfig.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\obj\Debug\net7.0\ref\Estudos_emC#.dll
